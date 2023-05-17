@@ -33,12 +33,12 @@ Se realizó un análisis competitivo utilizando como caso base la web https://fr
 
 Se han creado dos personas con gustos y características distintas:
 
-    Andrea, por otro lado, es una fotógrafa que busca capturar imágenes de lugares y monumentos. Esto la convierte en una buena representante de los usuarios interesados en la fotografía
+Andrea es una fotógrafa que busca capturar imágenes de lugares y monumentos. Esto la convierte en una buena representante de los usuarios interesados en la fotografía
     
 ![Persona 1](img/ismael/persona1.png)
 
 
-    Carlos es una persona aventurera y curiosa que disfruta de viajar y explorar nuevos lugares, lo que lo convierte en un buen representante de los usuarios interesados en la cultura y la aventura.
+Carlos, por otro lado, es una persona aventurera y curiosa que disfruta de viajar y explorar nuevos lugares, lo que lo convierte en un buen representante de los usuarios interesados en la cultura y la aventura.
 
 ![Persona 1](img/ismael/persona2.png)
 
