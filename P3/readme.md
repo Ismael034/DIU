@@ -19,7 +19,7 @@ El moodboard está agrupado en 5 partes. Colores, tipografía, logo, iconos e im
 
 [Landing Page en Figma](https://www.figma.com/file/zgyps4kYgSsvoG1KWyE82F/Landing-Page?type=design&node-id=0%3A1&t=46yVXCeQmyxACKnq-1)
 
-![Moodboard](LandingPage.jpg)
+![Moodboard](LandingPage.png)
 
 ## Guidelines
 
