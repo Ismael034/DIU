@@ -55,7 +55,7 @@ Carlos, por otro lado,  es una persona aventurera y curiosa que disfruta de viaj
 
 > La página web ha obtenido una puntuación de 73 en el Usability review. En general la página tiene un buen diseño. Sin embargo, fallos como menús poco claros, una página que está parcialmente traducida al inglés y, por lo tanto, cuando se selecciona el idioma de inglés, la mayoría del contenido sigue en Español o una funcionalidad de búsqueda que cuesta encontrarla hacen que, una experiencia que podría haber sido muy positiva para el usuario, sea solo aceptable.
 
-[Usability review](img/ismael/Usability-review.pdf)
+[Usability review](img/ismael/Usability-review.pdf  ':ignore')
 
 
 ## Paso 2. UX Design  
@@ -134,7 +134,7 @@ Labelling
 [Link a figma](https://www.figma.com/file/hRuAQ1bHABRlx06cwA4xNI/Wireframe?node-id=0%3A1&t=snqoiEzs2HDrXBtY-1)
 
 
-[Wireframe PDF](img/ismael/Wireframe.pdf)
+[Wireframe PDF](img/ismael/Wireframe.pdf ':ignore')
 
 
 ## Paso 3. Mi UX-Case Study (diseño)
@@ -201,9 +201,4 @@ La  información sobre los patrones de diseño se ha extraído de [UI Pattern](h
 
 [Layout en Figma](https://www.figma.com/file/TAhszTwpiHqG6bxR4RIJDj/Layout?type=design&node-id=0%3A1&t=HsYuQtqg9F3lz80Y-1)
 
-[Layout PDF](img/ismael/Layout.pdf)
-
-
-
-
-
+[Layout PDF](img/ismael/Layout.pdf ':ignore')
