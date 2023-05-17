@@ -1,10 +1,12 @@
 # DIU23
 Prácticas Diseño Interfaces de Usuario 2022-23 (Tema: Free Tour ) 
 
-Grupo: DIU2_Polaco.  Curso: 2022/23 
-Updated: 11/1/2023
+**Grupo:** DIU2_Polaco.  Curso: 2022/23 
+Updated: 11/05/2023
 
-Proyecto: MyTourExplorer
+**Proyecto**: MyTourExplorer
+
+**Case Study:** [https://mytourexplorer.ismael034.xyz](https://mytourexplorer.ismael034.xyz)
 
 Descripción: MyTourExplorer es una aplicación web que permite a los usuarios organizar y unirse a tours, tanto gratuitos como de pago. Los usuarios pueden registrarse, obtener recomendaciones personalizadas, chatear, crear filtros y dejar valoraciones.
 
