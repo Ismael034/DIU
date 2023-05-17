@@ -60,6 +60,7 @@ La  información sobre los patrones de diseño se ha extraído de [UI Pattern](h
 
 ## Documentación: Publicación del Case Study
 
+[Case Study](http://mytourexplorer.ismael034.xyz/)
 
 (incluye) Valoración del equipo sobre la realización de esta práctica o los problemas surgidos
  
