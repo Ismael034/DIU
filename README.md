@@ -30,6 +30,8 @@ Miembros
 
 Se realizó un análisis competitivo utilizando como caso base la web https://freetour-granada.com/. Los competidores directos son Expedia y Viator, que ofrecen una amplia selección de tours y actividades en todo el mundo, plataformas fáciles de usar con opciones de búsqueda y filtrado avanzadas, ofertas y descuentos, reseñas y calificaciones de clientes. Sus debilidades son la calidad variable de tours y actividades, precios más altos que los competidores indirectos, opciones de personalización limitadas. Los competidores indirectos son agencias de viajes tradicionales y guías locales que ofrecen servicios personalizados, conexiones y relaciones locales, y precios competitivos, pero pueden tener dificultades en la reserva y pago en línea, opciones de búsqueda limitadas, y calidad variable en tours y actividades.
 
+![Logo](img/ismael/competitor_analysis.png)
+
 ![Método UX](img/Persona.png) 1.b Persona
 -----
 
