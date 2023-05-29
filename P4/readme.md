@@ -16,22 +16,20 @@ Se han obtenido las siguientes personas:
 
 | Usuario  | Sexo    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
-| Raquel | Femenino | 24   | Desarolladora   | Alta                    | macOS, Linux, Android | Persona discapacitada con problemas de movilidad. Está triste porque no encuentra actividades que se adapten a su discapcidad          | A    |       77.5         |
-| Pedro | Masculino  | 43   | Empresario   | Baja                    | Android                       | Empresario de mediana edad con poco tiempo. Está feliz porque ha podido encontrar toda la información de las actividades de manera rápida | A    |       62.5         |
 | Nuria | Femenino | 68   | Jubilada | Baja                    | Windows, Android                   | Jubilada aficionada a la fotografía y subir sus experiencias a su blog personal. Está enfadada ya que no puede compartir las actividades desde la web. | B    |       60         |
-| Ramón | Masculino  | 19   | Estudiante | Media                    | Windows, iOS                      | Estudiante joven aficionado al senderismo. Está impresionado por la simplicidad de la web y por lo claros que están todos los links y botones. | B    |      75          |
+| Elías | Masculino  | 56   | Profesor | Alta                    | Windows, Android                      | Profesor con conocimientos avanzados de informática. Está decepcionado porque esperaba más contenido y funcionalidades de la página web.. | B    |      62.5          |
 
 ## Cuestionario SUS + Conclusiones A/B test
 
 ![Cuestionario](img/cuestionario.png)
 
-La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 75 para Ramón
+La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 62.5 para Elías
 respectivamente. La valoración según el cuestionario SUS sería “Marginal D” para la puntuación
-de 60 y “Aceptable tipo B” para la puntuación de 75.
-
+de 60 y “Marginal D” para la puntuación de 62.5. La página web por lo tanto obtendría una
+puntuación SUS de 61.25
 La diferencia de puntuación se debe sobretodo a la diferencia de edad y experiencia en
-internet. Mientras que Ramón es un chico joven que ha crecido junto a las tecnologías, Nuria no
-tiene las misma facilidades, por lo que cualquier error de diseño le afecta más.
+internet. Mientras que Elías una persona que tiene experiencia en el uso de las tecnologías,
+Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le afecta más.
 
 ## Usability Report (caso B)
 

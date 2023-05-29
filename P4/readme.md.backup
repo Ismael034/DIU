@@ -1,6 +1,6 @@
 # DIU - Practica 4, entregables
 
-**Proyecto a analizar:** [https://github.com/SoldadosDelNano/DIU](https://github.com/SoldadosDelNano/DIU)
+**`Proyecto a analizar:** [https://github.com/SoldadosDelNano/DIU](https://github.com/SoldadosDelNano/DIU)
 ## Usuarios ficticios + Rol Play
 
 Para la realización del role play se han simulado 4 tipos de usuarios de manera aleatoria usando como referencia unos dados que nos indican tipo de usuario, actividad del usuario y emoción del usuario
@@ -16,10 +16,8 @@ Se han obtenido las siguientes personas:
 
 | Usuario  | Sexo    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
-| Raquel | Femenino | 24   | Desarolladora   | Alta                    | macOS, Linux, Android | Persona discapacitada con problemas de movilidad. Está triste porque no encuentra actividades que se adapten a su discapcidad          | A    |       77.5         |
-| Pedro | Masculino  | 43   | Empresario   | Baja                    | Android                       | Empresario de mediana edad con poco tiempo. Está feliz porque ha podido encontrar toda la información de las actividades de manera rápida | A    |       62.5         |
 | Nuria | Femenino | 68   | Jubilada | Baja                    | Windows, Android                   | Jubilada aficionada a la fotografía y subir sus experiencias a su blog personal. Está enfadada ya que no puede compartir las actividades desde la web. | B    |       60         |
-| Ramón | Masculino  | 19   | Estudiante | Media                    | Windows, iOS                      | Estudiante joven aficionado al senderismo. Está impresionado por la simplicidad de la web y por lo claros que están todos los links y botones. | B    |      75          |
+| Elías | Masculino  | 56   | Profesor | Alta                    | Windows, Android                      | Profesor con conocimientos avanzados de informática. Está decepcionado porque esperaba más contenido y funcionalidades de la página web.. | B    |      62.5          |
 
 ## Cuestionario SUS + Conclusiones A/B test
 
