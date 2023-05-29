@@ -1,6 +1,6 @@
 # DIU - Practica 4, entregables
 
-**`Proyecto a analizar:** [https://github.com/SoldadosDelNano/DIU](https://github.com/SoldadosDelNano/DIU)
+**Proyecto a analizar:** [https://github.com/SoldadosDelNano/DIU](https://github.com/SoldadosDelNano/DIU)
 ## Usuarios ficticios + Rol Play
 
 Para la realización del role play se han simulado 4 tipos de usuarios de manera aleatoria usando como referencia unos dados que nos indican tipo de usuario, actividad del usuario y emoción del usuario
