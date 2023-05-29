@@ -11,7 +11,7 @@ Se han obtenido las siguientes personas:
 - **Persona 1 (4,1,6)**: Raquel es una persona discapacitada que tiene problemas de movilidad y necesita desplazarse en silla de ruedas. Trabaja remotamente como desarolladora desde casa con su portatil. Raquel necesita una plataforma que indique claramente si puede participar en las actividades a causa de su discapacidad. 
 - **Persona 2 (5,4,3)**: Pedro es un empresario de mediana edad con poco tiempo. Pedro necesita una plataforma fácil de usar que le permita reservar actividades con solo un par de clicks.
 - **Persona 3 (6,5,1)**: Nuria es una mujer jubilada de avanzada edad que le gusta fotografiar cualquier cosa que le pueda parecer interesante cuando viaja. Después, crea publicaciones con las fotos en su blog. Nuria necesita una plataforma que le permita compartir sus expetiencias de manera sencilla para después subirlas a su blog.
-- **Persona 4**: Ramón es un estudiante. Es una persona tranquila. Cuando tiene tiene tiempo libre hace senderismo ya que es una actividad que le relaja. Ramón necesita una plataforma simple, sin opciones innecesarias.  
+- **Persona 4**: Elías es un hombre que trabaja de profesor. Tiene experiencia con las tecnologías tanto por su desempeño profesional como por el uso de webs para comercio online, consultas, y transacciones financieras. Busca una plataforma avanzada con una gran cantidad de funcionalidades.
 
 Para el casos SUS se han seleccionado dos de estas personas y se les han mostrado ambas interfaces
 | Usuario  | Sexo    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | SUS |
