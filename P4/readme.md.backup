@@ -13,7 +13,7 @@ Se han obtenido las siguientes personas:
 - **Persona 3, Prototipo B (6,5,1)**: Nuria es una mujer jubilada de avanzada edad que le gusta fotografiar cualquier cosa que le pueda parecer interesante cuando viaja. Después, crea publicaciones con las fotos en su blog. Nuria necesita una plataforma que le permita compartir sus expetiencias de manera sencilla para después subirlas a su blog.
 - **Persona 4, Prototipo B (1,6,4)**: Ramón es un estudiante. Es una persona tranquila. Cuando tiene tiene tiempo libre hace senderismo ya que es una actividad que le relaja. Ramón necesita una plataforma simple, sin opciones innecesarias.  
 
-
+Para el casos SUS se han seleccionado dos de estas personas y se les ha
 | Usuario  | Sexo    | Edad | Ocupación  | Experiencia en internet | Plataforma                         | Perfil cubierto                                                                                | Test | SUS |
 |---------|-----------|------|------------|-------------------------|------------------------------------|------------------------------------------------------------------------------------------------|------|----------------|
 | Nuria | Femenino | 68   | Jubilada | Baja                    | Windows, Android                   | Jubilada aficionada a la fotografía y subir sus experiencias a su blog personal. Está enfadada ya que no puede compartir las actividades desde la web. | B    |       60         |
@@ -23,13 +23,13 @@ Se han obtenido las siguientes personas:
 
 ![Cuestionario](img/cuestionario.png)
 
-La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 75 para Ramón
+La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 62.5 para Elías
 respectivamente. La valoración según el cuestionario SUS sería “Marginal D” para la puntuación
-de 60 y “Aceptable tipo B” para la puntuación de 75.
-
+de 60 y “Marginal D” para la puntuación de 62.5. La página web por lo tanto obtendría una
+puntuación SUS de 61.25
 La diferencia de puntuación se debe sobretodo a la diferencia de edad y experiencia en
-internet. Mientras que Ramón es un chico joven que ha crecido junto a las tecnologías, Nuria no
-tiene las misma facilidades, por lo que cualquier error de diseño le afecta más.
+internet. Mientras que Elías una persona que tiene experiencia en el uso de las tecnologías,
+Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le afecta más.
 
 ## Usability Report (caso B)
 
