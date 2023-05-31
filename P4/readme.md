@@ -36,8 +36,8 @@ Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le a
 
 ## Usability Report (caso B)
 
-[Usability Report PDF](P4/P4_UsabReport_DIU3_SoldadosDelNano_doneby_DIU2_Polaco.pdf)
+[Usability Report PDF](P4_UsabReport_DIU3_SoldadosDelNano_doneby_DIU2_Polaco.pdf)
 
 ## UX Case Study review
 
-[UX Case Study review PDF](P4/UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
+[UX Case Study review PDF](UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
