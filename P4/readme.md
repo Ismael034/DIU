@@ -27,6 +27,8 @@ La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 62.
 respectivamente. La valoración según el cuestionario SUS sería “Marginal D” para la puntuación
 de 60 y “Marginal D” para la puntuación de 62.5.
 
+![Cuestionario](img/SUS.png)
+
 Por lo tanto, podemos llegar a la conclusión que la página analizada obtendría una
 puntuación SUS de 61.25, lo cual se corresponde a una experiencia de “Marginal D”
 
