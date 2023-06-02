@@ -273,14 +273,14 @@ Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le a
 ![Método UX](img/usability-report.png) 4.d Usability Report
 ----
 
-[Usability Report PDF](P4_UsabReport_DIU3_SoldadosDelNano_doneby_DIU2_Polaco.pdf)
+[Usability Report PDF](P4/P4_UsabReport_DIU3_SoldadosDelNano_doneby_DIU2_Polaco.pdf)
 
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
 
 
 
-[UX Case Study review PDF](UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
+[UX Case Study review PDF](P4/UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
