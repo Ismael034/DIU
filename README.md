@@ -215,10 +215,7 @@ La  información sobre los patrones de diseño se ha extraído de [UI Pattern](h
 ![Método UX](img/caseStudy.png) 3.e ¿My UX-Case Study?
 -----
 
-
->>> Publicar my Case Study en Github..
->>> Documente y resuma el diseño de su producto en forma de video de 90 segundos aprox
-
+[https://mytourexplorer.ismael034.xyz](https://mytourexplorer.ismael034.xyz)
 
 ## Paso 4. Evaluación 
 
@@ -275,12 +272,9 @@ Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le a
 
 [Usability Report PDF](P4/P4_UsabReport_DIU3_SoldadosDelNano_doneby_DIU2_Polaco.pdf)
 
+[UX Case Study review PDF](P4/UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
 
 >>> ## Paso 5. Evaluación de Accesibilidad  (no necesaria)
-
-
-
-[UX Case Study review PDF](P4/UXCaseStudy-review-DIU3.SoldadosDelNano.pdf)
 
 >>> Indica qué pretendes evaluar (de accesibilidad) sobre qué APP y qué resultados has obtenido 
 
