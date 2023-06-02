@@ -258,8 +258,13 @@ Para el casos SUS se han seleccionado dos de estas personas y se les han mostrad
 
 La aplicación para el caso B ha obtenido una puntuación de 60 para Nuria y 62.5 para Elías
 respectivamente. La valoración según el cuestionario SUS sería “Marginal D” para la puntuación
-de 60 y “Marginal D” para la puntuación de 62.5. La página web por lo tanto obtendría una
-puntuación SUS de 61.25
+de 60 y “Marginal D” para la puntuación de 62.5.
+
+![Cuestionario](P4/img/SUS.png)
+
+Por lo tanto, podemos llegar a la conclusión que la página analizada obtendría una
+puntuación SUS de 61.25, lo cual se corresponde a una experiencia de “Marginal D”
+
 La diferencia de puntuación se debe sobretodo a la diferencia de edad y experiencia en
 internet. Mientras que Elías una persona que tiene experiencia en el uso de las tecnologías,
 Nuria no tiene las misma facilidades, por lo que cualquier error de diseño le afecta más.
