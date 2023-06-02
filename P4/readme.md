@@ -3,7 +3,7 @@
 **Proyecto a analizar:** [https://github.com/SoldadosDelNano/DIU](https://github.com/SoldadosDelNano/DIU)
 ## Usuarios ficticios + Rol Play
 
-Para la realización del role play se han simulado 4 tipos de usuarios de manera aleatoria usando como referencia unos dados que nos indican tipo de usuario, actividad del usuario y emoción del usuario
+Para la realización del role play se han simulado 4 tipos de usuarios de manera aleatoria usando como referencia unos dados que nos indican tipo de usuario, actividad del usuario y emoción del usuario.
 
 ![Dados](img/dados.png)
 
@@ -30,7 +30,7 @@ de 60 y “Marginal D” para la puntuación de 62.5.
 ![Cuestionario](img/SUS.png)
 
 Por lo tanto, podemos llegar a la conclusión que la página analizada obtendría una
-puntuación SUS de 61.25, lo cual se corresponde a una experiencia de “Marginal D”
+puntuación SUS de 61.25, lo cual se corresponde a una experiencia de “Marginal D”.
 
 La diferencia de puntuación se debe sobretodo a la diferencia de edad y experiencia en
 internet. Mientras que Elías una persona que tiene experiencia en el uso de las tecnologías,
