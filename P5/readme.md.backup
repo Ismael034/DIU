@@ -1,0 +1,86 @@
+## Practica 5: Eye Tracking - entregables 
+
+
+### Diseño del experimento
+
+Se va a utilizar la aplicación [Gaze Recorder](https://gazerecorder.com/) para analizar la usabilidad de los prototipos A ([MyTourExplorer](https://github.com/Ismael034/DIU)) y B ([Artesanía Nazarí](https://github.com/SoldadosDelNano/DIU))
+
+Para ello se han seleccionados dos usuarios. Cada uno de ellos va a evaluar con la aplicación la usabilidad de secciones específicas de ambos prototipos. Las tareas a supervisar son:
+
+#### MyTourExplorer
+
+**Tarea 1**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario puede identificar de manera rápida los elementos importantes de la página como el botón de registro o las características principales de la web.
+
+![](img/A/landing.png)
+
+**Tarea 2**: 
+En esta tarea es del tipo de exploración de comprobar si el usuario sigue el recorrido de elementos propuesto: Título,  descripcion, reserva, infromación del tour, información, itinerario, comentarios.
+
+![](img/A/tour.png)
+
+**Tarea 3**: 
+En esta tarea es del tipo supervisada. Al usuario se le va a pedir que identifique dónde cree que puede subir imágenes la plataforma o añadir elementos de información adicional.
+
+![](img/A/crear.png)
+
+---
+
+#### Artesanía nazarí
+
+**Tarea 1**: 
+En esta tarea es del tipo supervisada. Al usuario se le va a pedir que identifique dónde cree que puede obtener mas información sobre enseñar a otros usuarios a fabricar cerámica
+
+
+![](img/B/landing_page.png)
+
+**Tarea 2**: 
+En esta tarea es del tipo supervisada. Al usuario se le va a pedir que identifique los pasos para registrarse en una actividad
+
+![](img/B/reserva_2.png)
+
+**Tarea 3**: 
+En esta tarea es del tipo de exploración. Se le va a preguntar el usuario que dirija su miraba a la parte de la página que más le llame la atención. Es decir, lo primero que miraría al abrir la página
+
+![](img/B/visita_taller.png)
+
+### Recabado de usuarios
+
+Para la realización de esta tarea se han 
+### Análisis de datos
+
+Los resultado para cada una de las pantallas serían los siguientes:
+
+#### MyTourExplorer
+
+**Tarea 1**: 
+
+![](img/resultado1.png)
+
+**Tarea 2**: 
+
+![](img/resultado2.png)
+
+**Tarea 3**: 
+
+![](img/resultado3.png)
+
+#### Artesanía nazarí
+
+**Tarea 1**: 
+
+![](img/resultado4.png)
+
+**Tarea 2**: 
+
+![](img/resultado5.png)
+
+**Tarea 3**: 
+
+![](img/resultado6.png)
+
+### RESUMEN 
+
+Conclusiones de apartados anteriores 
+
+Puntos fuertes y de mejora de los criterios de accesibilidad de tu diseño
