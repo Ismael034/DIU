@@ -1,4 +1,4 @@
-## Practica 5: Eye Tracking - entregables 
+## Practica 5: Eye Tracking 
 
 
 ### Diseño del experimento
@@ -46,7 +46,12 @@ En esta tarea es del tipo de exploración. Se le va a preguntar el usuario que d
 
 ### Recabado de usuarios
 
-Para la realización de esta tarea se han obtenido los datos de dos usuarios. 
+Para la realización de esta tarea se escogido a dos usuarios con distintas experiencias en ambas aplicaciones. Se les ha pedido que realicen las acciones previamente mencionadas. Cuando terminen, se obtendrá un mapa de calor con el que se va a poder indentificar posibles de diseño. Los usuarios escogidos han sido:
+
+- Ismael: Usuaro avanzado. Ha tenido experiencia con ambas interfaces previamente
+- Elías: Usuario en TIC avanzado tanto por su desempeño profesional como por el uso de webs para comercio online, consultas, y transacciones financieras. Es su primera experiencia en la aplicación. 
+
+
 ### Análisis de datos
 
 Los resultado para cada una de las pantallas serían los siguientes:
@@ -80,6 +85,10 @@ Los resultado para cada una de las pantallas serían los siguientes:
 ![](img/resultado6.png)
 
 ### RESUMEN 
+
+
+
+
 
 Conclusiones de apartados anteriores 
 
